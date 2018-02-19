@@ -1,14 +1,14 @@
 {
   "packageDirectories": [
     {
-      "path": "force-app",
+      "path": "dreamhouse_core",
       "default": true,
-      "id": "0HoB00000008OhnKAE",
+      "id": "0Ho0V0000004C93SAE",
       "versionName": "Spring 18",
-      "versionNumber": "2.0.0.NEXT"
+      "versionNumber": "1.0.0.NEXT"
     }
   ],
   "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sfdcLoginUrl": "https://vonbytes.my.salesforce.com",
   "sourceApiVersion": "42.0"
 }
